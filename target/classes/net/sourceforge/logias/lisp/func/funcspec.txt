@@ -1,0 +1,10 @@
+
+      Lazy numparams     Atom       Pair     List
+Atom  NO   1             OK(nil)    OK(nil)  OK(nil)
+Car   NO   1             NG         OK(car)  OK(first)
+Cdr   NO   1             NG         OK(car)  OK(second...)
+Cond  YES  1...          NG         NG       NG
+Cons  NO   2             OK         OK       OK
+Eq    NO   2             OK         OK       OK
+Eval  NO                 OK         NG       OK
+Quote YES  ANY(1st only) OK         OK       OK

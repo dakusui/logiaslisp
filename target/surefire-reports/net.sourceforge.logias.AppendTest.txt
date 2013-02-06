@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------
+Test set: net.sourceforge.logias.AppendTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.017 sec <<< FAILURE!
+net.sourceforge.logias.AppendTest.test_001()  Time elapsed: 0.006 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at net.sourceforge.logias.LogiasTestBase.eval(LogiasTestBase.java:20)
+	at net.sourceforge.logias.AppendTest.test_001(AppendTest.java:19)
+
+net.sourceforge.logias.AppendTest.test_002()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at net.sourceforge.logias.LogiasTestBase.eval(LogiasTestBase.java:20)
+	at net.sourceforge.logias.AppendTest.test_002(AppendTest.java:31)
+
+net.sourceforge.logias.AppendTest.test_003()  Time elapsed: 0.002 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at net.sourceforge.logias.LogiasTestBase.eval(LogiasTestBase.java:20)
+	at net.sourceforge.logias.AppendTest.test_003(AppendTest.java:42)
+

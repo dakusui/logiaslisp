@@ -1,0 +1,68 @@
+-------------------------------------------------------------------------------
+Test set: net.sourceforge.logias.SexpIteratorTest
+-------------------------------------------------------------------------------
+Tests run: 16, Failures: 16, Errors: 0, Skipped: 0, Time elapsed: 0.028 sec <<< FAILURE!
+net.sourceforge.logias.SexpIteratorTest.test_004()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at net.sourceforge.logias.SexpIteratorTest.test_004(SexpIteratorTest.java:46)
+
+net.sourceforge.logias.SexpIteratorTest.test_005()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at net.sourceforge.logias.SexpIteratorTest.test_005(SexpIteratorTest.java:60)
+
+net.sourceforge.logias.SexpIteratorTest.test_006()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at net.sourceforge.logias.SexpIteratorTest.test_006(SexpIteratorTest.java:74)
+
+net.sourceforge.logias.SexpIteratorTest.test_007()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at net.sourceforge.logias.SexpIteratorTest.test_007(SexpIteratorTest.java:91)
+
+net.sourceforge.logias.SexpIteratorTest.test_008()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at net.sourceforge.logias.SexpIteratorTest.test_008(SexpIteratorTest.java:107)
+
+net.sourceforge.logias.SexpIteratorTest.test_101()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at net.sourceforge.logias.SexpIteratorTest.test_101(SexpIteratorTest.java:120)
+
+net.sourceforge.logias.SexpIteratorTest.test_102()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at net.sourceforge.logias.SexpIteratorTest.test_102(SexpIteratorTest.java:132)
+
+net.sourceforge.logias.SexpIteratorTest.test_103()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at net.sourceforge.logias.SexpIteratorTest.test_103(SexpIteratorTest.java:152)
+
+net.sourceforge.logias.SexpIteratorTest.test_104()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at net.sourceforge.logias.SexpIteratorTest.test_104(SexpIteratorTest.java:161)
+
+net.sourceforge.logias.SexpIteratorTest.test_105()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at net.sourceforge.logias.SexpIteratorTest.test_105(SexpIteratorTest.java:174)
+
+net.sourceforge.logias.SexpIteratorTest.test_106()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at net.sourceforge.logias.SexpIteratorTest.test_106(SexpIteratorTest.java:187)
+
+net.sourceforge.logias.SexpIteratorTest.test_107()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at net.sourceforge.logias.SexpIteratorTest.test_107(SexpIteratorTest.java:203)
+
+net.sourceforge.logias.SexpIteratorTest.test_108()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at net.sourceforge.logias.SexpIteratorTest.test_108(SexpIteratorTest.java:218)
+
+net.sourceforge.logias.SexpIteratorTest.test_001()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at net.sourceforge.logias.SexpIteratorTest.test_001(SexpIteratorTest.java:12)
+
+net.sourceforge.logias.SexpIteratorTest.test_002()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at net.sourceforge.logias.SexpIteratorTest.test_002(SexpIteratorTest.java:25)
+
+net.sourceforge.logias.SexpIteratorTest.test_003()  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at net.sourceforge.logias.SexpIteratorTest.test_003(SexpIteratorTest.java:36)
+

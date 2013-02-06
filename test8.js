@@ -1,0 +1,1 @@
+["$print", ["$quote", ["hi", "!", "$:", ["world,", "everyone!"]]]]

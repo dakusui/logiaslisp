@@ -1,0 +1,1 @@
+["$print", ["$quote", {"hello":"world", "everyone":["!","!"], "$a":{"b":"c","d":"e"}}]]
