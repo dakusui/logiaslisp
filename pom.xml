@@ -38,9 +38,16 @@
         </dependency>
     </dependencies>
   </dependencyManagement>
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
+
+  <scm>
+    <connection>scm:git:git://github.com/dakusui/logiaslisp.git</connection>
+    <developerConnection>scm:git:git@github.com:dakusui/logiaslisp.git</developerConnection>
+    <url>http://github.com/dakusui/logiaslisp</url>
+  </scm>
 
   <build>
     <plugins>
