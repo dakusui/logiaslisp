@@ -82,7 +82,7 @@
           </descriptorRefs>
           <archive>
             <manifest>
-              <mainClass>net.sourceforge.logias.Logias</mainClass>
+              <mainClass>com.github.dakusui.logias.Logias</mainClass>
             </manifest>
           </archive>
         </configuration>
