@@ -9,6 +9,10 @@ You can run LogiasLisp by doing like
 $ java -jar logias-1.0-SNAPSHOT-with-dependencies.jar test.js
 ~~~~
 
+If you are not familiar with maven, an executable assembly is available from here.
+
+ https://s3-ap-northeast-1.amazonaws.com/logiaslisp/logiaslisp-1.0-jar-with-dependencies.jar
+
 Code examples are below,
 #Example 1
 
